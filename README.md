@@ -59,11 +59,6 @@
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 
-<p align="center">
-  <a href="https://github.com/Nahuel61920">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
-  </a>
-</p>
 
 
 <p  align="center">
