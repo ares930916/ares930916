@@ -30,12 +30,6 @@
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Srikarmk&theme=dracula)
 
 
-## My Portfilo!! 
-[![@Francisco Silva's Portfilo](https://franciscosilva93916.netlify.app/)]
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=srikarmk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srikarmk&theme=tokyonight&hide_border=false)<br/>
