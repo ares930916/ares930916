@@ -2,7 +2,7 @@
 
 ## About me :
 
-- Hey there, I'm Srikar! Glad you found your way to my profile !
+- Hey there, I'm Francisco Silva! Glad you found your way to my profile !
 - I’m currently exploring Artificial Intelligence 🤖 and Deep Learning.
 - Currently pursuing my Master's in Data Science at Northeastern University. 
 - I'm passionate about bridging the gap between software development and data analytics to create impactful solutions.
