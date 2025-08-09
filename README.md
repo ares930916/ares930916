@@ -27,24 +27,6 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
 #### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
-
-##  GitHub Analytics ⚙️
-<div align="center">
-  <a href="https://github.com/Nahuel61920">
-    <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nl61920&show_icons=true&theme=react&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=react&hide_border=true" />
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahuel61920&theme=react&hide_border=true"/>
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahuel61920&theme=react&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-    </p>
-  </a>
-  <p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-  <br>
-</div>
-  
-
   
  
 ## GitHub Profile Trophy 🏆 
