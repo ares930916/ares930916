@@ -12,7 +12,6 @@
 <a href = "mailto:estebancarrizo619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/francisco-silva-629394379><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=https://discord.com/channels/@me/1403124011281420361><img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> 
-<a href="https://www.instagram.com/franciscosilva/"><img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br>
 
